@@ -29,5 +29,5 @@
 ## Contact
 
 - Website [shobhitsirohi.com](https://shobhitsirohi.com)
-- GitHub [@shobhit-sirohi](https://{https://github.com/shobhit-sirohi})
-- Twitter [@ShobhitSirohi](https://{https://twitter.com/ShobhitSirohi})
+- GitHub [@shobhit-sirohi](https://{https://www.github.com/shobhit-sirohi})
+- Twitter [@ShobhitSirohi](https://{https://www.twitter.com/ShobhitSirohi})
